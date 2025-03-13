@@ -118,7 +118,7 @@ st.write("- Comment l'IA transforme-t-elle le secteur bancaire ?")
 # Footer
 st.markdown("---")
 st.markdown("*Chatbot alimenté par l'API Groq* 🚀")
-st.markdown("Projet python réalisé par [Gabriel Savean](https://www.linkedin.com/in/gabrielsavean/) pour appuyer sa candidature au poste de Consultant Stagiaire IT & Business Transformation Programs chez KPMG - Connected Tech.")
+st.markdown("Projet python réalisé par [Gabriel Savean](https://www.linkedin.com/in/gabrielsavean/) pour appuyer mes candidatures de stage.")
 st.subheader("📌 Technologies utilisées")
 st.markdown("""
 - **Streamlit** → Interface utilisateur interactive 💻  
